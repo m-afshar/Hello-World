@@ -1,2 +1,4 @@
 # Hello-World
-The FIrst Repository
+The First Repository
+
+A seakeeping solver based on high-order finite-difference method.
